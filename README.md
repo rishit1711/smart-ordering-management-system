@@ -10,7 +10,7 @@ A scalable backend REST API built using Spring Boot to manage an online food ord
 * Spring Boot
 * Spring Security (JWT)
 * JPA / Hibernate
-* MySQL
+* PostGre Sql
 
 ## 🔐 Features
 
